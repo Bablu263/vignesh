@@ -5,6 +5,32 @@ import { useEffect, useRef, useState } from "react";
 
 const skillCategories = [
   {
+    title: "Project Management Approaches and Methodologies",
+    icon: Target,
+    skills: [
+    "Waterfall Methodology",
+    "Agile Methodology",
+    "Scrum Framework",
+    "Kanban Framework",
+    "Lean Project Management",
+    "Hybrid Project Management",
+    ],
+  },
+  {
+  title: "Project Management Techniques and Tools",
+  icon: Target,
+  skills: [
+    "Gantt Charts",
+    "Work Breakdown Structure (WBS)",
+    "Risk Matrix",
+    "Critical Path Method (CPM)",
+    "Project Network Diagrams",
+    "PERT (Program Evaluation and Review Technique)",
+    "RACI Matrix",
+    "Project Charter",
+  ],
+},
+  {
     title: "Leadership & Management",
     icon: Users,
     skills: [

@@ -17,24 +17,38 @@ const projects = [
     tags: ["TQM", "FMEA", "Quality Control", "Process Improvement", "Risk Assessment"],
   },
   {
-    title: "Smart Lighting and Utility System for Auditorium",
-    date: "Feb 2024",
+    title: "Quality Control Analysis and TQM Implementation in a Manufacturing Unit (FOME Project)",
+    date: "Jul 2023",
     description: [
-      "To optimize energy usage and enhance operational efficiency in auditoriums through the implementation of anautomated lighting and utility system",
-      "Developed a sophisticated automation system for auditoriums, utilizing embedded systems and sensortechnology to intelligently control lighting and utility devices",
-      "Represents a significant advancement in auditorium management, offering energy-efficient solutions coupledwith essential security features. The use of embedded systems and sensor integration showcases technical expertise in automation and control systems."
+      "Analyzed quality shortfalls using advanced spreadsheet techniques, including Pareto Charts, Fishbone Diagrams, and Control Charts",
+      "Implemented Total Quality Management (TQM) principles to enhance process reliability and reduce defects",
+      "Recommended employee training and process standardization to improve product consistency and quality",
+      "Applied quality control tools and Six Sigma fundamentals to strengthen operational excellence and continuous improvement efforts",
     ],
-    tags: ["Smart Lighting", "IoT", "Security Systems", "Energy Efficiency", "Utility Management","Auditorium Management"],
+    tags: [
+      "TQM",
+      "Quality Control",
+      "Six Sigma Fundamentals",
+      "MS Excel",
+      "Process Improvement",
+    ],
   },
-  {
-    title: "Health Monitoring System Using IOT",
-    date: "Oct 2023",
+   {
+    title: "Financial Health & Efficiency Analysis: Indian Auto Sector (BEFA Project)",
+    date: "Jan 2023",
     description: [
-      "To empower healthcare specialist with the ability to remotely monitor and save patient’s lives while ensuring affordability and ease of operation.",
-      "To Developed a comprehensive Health Monitoring Systems leveraging embedded systems and Iot technology to address the growing need for timely healthcare.",
-      "The system enables continuous monitoring of patients’ vital signs, including body temperature and heart rate,using specialised sensors connected to Arduino boards."
+      "Conducted a comprehensive 3-year financial ratio analysis covering liquidity, solvency, and profitability metrics for two leading Indian automobile manufacturers",
+      "Benchmarked financial performance to determine the firm demonstrating superior financial stability and operational efficiency",
+      "Developed a quantitative model in Excel to analyze and visualize key financial ratios and identify performance trends",
+      "Delivered data-driven insights through financial modeling, supporting strategic decision-making and competitive benchmarking",
     ],
-    tags: ["IoT", "Arduino", "Smart Healthcare", "Sensor Technology","Healthcare Automation"],
+    tags: [
+      "Financial Analysis",
+      "Ratio Analysis",
+      "Financial Modeling (Excel)",
+      "Comparative Benchmarking",
+      "Research & Data Interpretation",
+    ],
   },
 ];
 
